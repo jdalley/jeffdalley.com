@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Jeff Dalley - Developer of Things"
 theme = "minimal"
 googleAnalytics = "UA-120667942-1"
+enableRobotsTXT = true
+canonifyURLs = true
 #disqusShortname = "username" # delete this to disable disqus comments
 
 [params]
