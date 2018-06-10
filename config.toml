@@ -15,7 +15,7 @@ googleAnalytics = "UA-120667942-1"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
-    highlightLanguages = ["c#", "css", "javascript", "go"]
+    highlightLanguages = ["cs", "css", "javascript", "go"]
 
 [[menu.main]]
     url = "/"
