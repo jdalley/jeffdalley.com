@@ -1,2 +1,2 @@
 # ignore Hugo public, this will have jdalley.github.io in it.
-public/*
+/public/
