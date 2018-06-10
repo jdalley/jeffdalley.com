@@ -2,8 +2,8 @@ baseURL = "https://jeffdalley.com/"
 languageCode = "en-us"
 title = "Jeff Dalley - Developer of Things"
 theme = "minimal"
+googleAnalytics = "UA-120667942-1"
 #disqusShortname = "username" # delete this to disable disqus comments
-googleAnalytics = ""
 
 [params]
     author = "Calin Tataru"
